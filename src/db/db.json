@@ -1,0 +1,29 @@
+{
+    "restaurant" :[
+
+    {
+
+        "id": 1,
+        "name" : "Piza hut",
+        "address" : "Mumabi",
+        "Rating" : "1.9",
+        "emailid" :"pizahut@gmail.com"
+},
+{
+
+    "id": 2,
+    "name" : "KFC",
+    "address" : "Mumabi",
+    "Rating" : "1.9",
+    "emailid" :"KFC@gmail.com"
+},
+{
+
+    "id": 3,
+    "name" : "Macc donult",
+    "address" : "Mumabi",
+    "Rating" : "3.0",
+    "emailid" :"makedo@gmail.com"
+}]
+
+}
